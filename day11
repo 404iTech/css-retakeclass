@@ -1,0 +1,21 @@
+<html>
+    <head>
+       
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Nerko+One&family=Roboto+Slab:wght@400;500&family=Yellowtail&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+
+        
+       
+        <title>
+            Day 11
+        </title>
+        
+
+    </head>
+    <body>
+       <h1>External</h1>
+      <p>vijay is a mass hero</p>
+
+    </body>
+</html>
